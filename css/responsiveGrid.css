@@ -29,7 +29,7 @@
   width: 100%;
 }
 
-/* Non-mobile, grid (adjusted at 782px columns to 100% width because images got unaligned*/
+/* Non-mobile, grid (adjusted font size at different screen sizes to avoid the cards from disarranging; also adjusted header height so it would cover whole title*/
 @media only screen and (min-width: 640px) {
 	.col-4 {
     width: 33.33%;
