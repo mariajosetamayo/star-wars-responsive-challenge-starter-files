@@ -30,6 +30,7 @@ header{
 .card{
 	border: 1px solid #EFEFEF;
 	margin-bottom: 30px;
+	/*min-height:360px;*/
 }
 
 .name{
@@ -38,4 +39,5 @@ header{
 
 .card p{
 	margin-left: 20px;
+	padding-right:20px;
 }
