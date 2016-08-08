@@ -9,6 +9,8 @@ main{
 	margin-top: 50px;
 }
 
+/* Title Section Star Wars Characters */
+
 header{
 	background-color: #EEB42F;
 	height: 95px;
@@ -22,6 +24,8 @@ header{
 .title{
 	margin-top: 10px;
 }
+
+/* Main card section */
 
 .card{
 	border: 1px solid #EFEFEF;
